@@ -1,3 +1,4 @@
+"use client";
 import { appName } from "@/constants/constants";
 import React from "react";
 
