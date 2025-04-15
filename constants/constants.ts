@@ -1,0 +1,2 @@
+export const appName = process.env.NEXT_PUBLIC_APP_NAME || "ZHA-Styles"
+export const description = process.env.NEXT_PUBLIC_APP_DESCRIPTION || "Grace in Every Thread – Handcrafted Chikankari from the Heart of India"
